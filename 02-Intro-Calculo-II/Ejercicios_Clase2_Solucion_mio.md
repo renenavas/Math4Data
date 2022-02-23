@@ -45,7 +45,7 @@
 
     a- f(x) = 2*x + 1, f'(2) = ?            f'(2) = 2
     b- f(x) = x^2, f'(0) = ?                f'(0) = 0
-    c- f(x) = x^3 - 2, f'(2) = ?            f'(2) = 12
+    c- f(x) = x^3 - 2, f'(2) = ?            f'(0) = 0
 
     
 **5)** Responde V o F en cada caso:
@@ -59,8 +59,8 @@
     V
     c- Es continua en x=0
     F
-    d- Tiene una discontinuidad inevitable finita en x=1
-    F
+    d- Tiene una discontinuidad inevitable finita en x=0
+    V
     e- Tiene un mínimo en x=-1
     F
     f- f'(4)>0

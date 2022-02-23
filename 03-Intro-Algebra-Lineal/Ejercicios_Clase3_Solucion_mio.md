@@ -2,28 +2,32 @@
 **1)** Responde Verdadero o Falso
 
     a- Los vectores se pueden describir en base a su módulo y dirección
+    V
     b- Los vectores se pueden describir en base a sus componentes cartesianos
+    V
     c- Dos vectores pueden tener misma dirección pero distinto sentido
+    V
     d- Dos vectores no pueden tener mismo módulo pero direcciones distintas
+    F
 
 
 **2)** ¿Cuál es el módulo de los siguientes vectores?
 
-    a- (3,4)
-    b- (1,1)
-    c- (10,10)
-    d- (-3,-4)
+    a- (3,4)                5
+    b- (1,1)                √2
+    c- (10,10)              √200
+    d- (-3,-4)              5
 
 **3)** Resolver las siguientes multiplicaciones de vectores por escalares
 
-    a- (1,1) * 3
-    b- (12,15) * 1/3
-    c- (10,1) * 10
-    d- (4,5) * 5
+    a- (1,1) * 3            3,3
+    b- (12,15) * 1/3        4,5
+    c- (10,1) * 10          100,10
+    d- (4,5) * 5            20,25
 
 **4)** Responder Verdadero o Falso
 
-    a- El producto escalar de dos vectores obtiene multiplicando entre sí la norma de cada vector y el coseno del ángulo que se forma entre ellos.
+    a- El producto escalar de dos vectores obtiene multiplicando entre sí la norma de cada vector y el coseno del ángulo que se forma entre ellos.git
     b- El producto escalar siempre da como resultado un escalar.
     c- El producto vectorial da como resultado otro vector.
     d- Si dos vectores son paralelos, el angulo entre ellos es 90 grados.
