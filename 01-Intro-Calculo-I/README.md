@@ -3,7 +3,7 @@
 ## Grabación de la Clase 1
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/680093414" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/680561763" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 # Introducción a Cálculo I
@@ -79,7 +79,7 @@ Por último, un porcentaje no es necesariamente un número menor. Por ejemplo, e
 
     X=230*2000 / 100 = 4600
     230/100* 2000 = 4600
-     2,3 * 2000 = 600
+     2,3 * 2000 = 4600
 
 o también “el doble (200%) más el 30%” o sea 2000*2+600.
 

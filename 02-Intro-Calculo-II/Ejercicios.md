@@ -39,7 +39,7 @@
 
     a- f(x) = 2*x + 1, f'(2) = ?
     b- f(x) = x^2, f'(0) = ?
-    c- f(x) = x^3 - 2, f'(2) = ?
+    c- f(x) = x^3 - 2, f'(0) = ?
 
     
 **5)** Responde V o F en cada caso:
@@ -50,6 +50,6 @@
     a- Tiene un máximo en x=1
     b- Tiene un máximo en x=-1
     c- Es continua en x=0
-    d- Tiene una discontinuidad inevitable finita en x=1
+    d- Tiene una discontinuidad inevitable finita en x=0
     e- Tiene un mínimo en x=-1
     f- f'(4)>0
