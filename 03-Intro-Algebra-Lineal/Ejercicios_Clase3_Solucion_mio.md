@@ -65,36 +65,53 @@ a-
 <br>
 <br>
 <br>
+
+
   6   10
  -3   -5
+
+
 b-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto2.png)
 <br>
 <br>
 <br>
+
+
  -2  -2
  14  17
+
+
 c-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto3.png)
 <br>
 <br>
 <br>
+
+
 30  -26  10
 36  -31  14
 42  -36  18
+
+
 d-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto4.png)
 <br>
 <br>
 <br>
+
+
 3   0   0
 0  -2   0
 0   0  -7
+
 e-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto5.png)
 <br>
 <br>
 <br>
+
+
 -8   4   7
 -2   0  -1
 -1  -2  -6
