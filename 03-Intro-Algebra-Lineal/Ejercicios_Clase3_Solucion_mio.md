@@ -108,8 +108,10 @@ d-
 e-
 ![unaImagenConBoxShadow](../_src/assets/ejercicios/producto5.png)
 
--8   4   7
+<pre>
+-8  4   7
 
--2   0  -1
+-2  0   -1
 
 -1  -2  -6
+</pre>
